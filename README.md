@@ -1,72 +1,83 @@
-# 👋 Hi, I'm Alina Qureshi
+<h1 align="center" style="color:#d63384;">💫 Alina Qureshi 💫</h1>
 
-🎓 **Diploma Student in Computer Engineering (3rd Year)**  
-💻 Passionate **Developer, Designer & Tech Explorer**  
-🌐 Currently diving into **Web Development** and **Game Development**  
-🎮 Creating an **Epic Minecraft Animation Movie** for YouTube
+<p align="center">
+  🎓 <b>Diploma Student in Computer Engineering (3rd Year)</b> <br/>
+  💻 Developer | Designer | Tech Explorer <br/>
+  💡 Passionate about <b>Web Development</b>, <b>Game Development</b>, and <b>Interactive Projects</b>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 💡 Skilled in multiple programming languages:  
+- 💡 I love building creative, interactive, and user-friendly applications.
+- 🔧 Skilled in:
   `C`, `C#`, `Java`, `JavaScript`, `Python`, `CSS`, `HTML`
-- 🎯 Focused on building creative, interactive, and user-friendly applications
-- 🤝 Always eager to collaborate on meaningful open-source projects
-- 🌱 Learning something new every day, from backend logic to front-end flair
+- 🌟 Currently enhancing my skills in:
+  `3D UI Design`, `Web Animation`, and `Front-End Development`
+- 🤝 Always open to learning, building, and contributing to open-source communities.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎨 Tech Stack
 
-**Languages & Markup**  
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+**Languages & Markup**
 
-**Tools & Platforms**  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-6E4F8F?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF6EC7?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-AB47BC?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-8E24AA?style=for-the-badge&logo=css3&logoColor=white)
+
+**Tools & Platforms**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-9146FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 Projects
 
-- 🎥 **Minecraft Animation Movie**  
-  *My first cinematic animation project — coming soon to YouTube!*
+🧠 **Quiz Generator (C++)**  
+OOP-based microproject that dynamically generates custom quizzes from a database of questions.
 
-- 🏍️ **ASCII Bike Racing Game**  
-  *A fun terminal-based racing game featuring animation, obstacles, and scoring*
+🏍️ **ASCII Bike Racing Game**  
+An interactive terminal game coded in C++ with animations, scoring system, and collision detection.
 
-- 🧠 **Quiz Generator in C++**  
-  *Built using OOP concepts — customizable quiz app with user interface*
+📊 **Credit Risk Prediction Model**  
+Machine Learning project using Streamlit and Pandas to assess loan risk using alternative data points.
+
+🌐 **Portfolio Website**  
+A personal responsive website using HTML, CSS, and JavaScript with 3D design elements and a purple-pink theme.
 
 ---
 
 ## 📊 GitHub Stats
 
-> _Note: Replace `yourusername` with your actual GitHub username._
+> ⚠️ _Replace `yourusername` below with your actual GitHub username._
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&icon_color=ff79c6&title_color=bd93f9&text_color=ffffff&bg_color=1e1e2f" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&title_color=bd93f9&text_color=ffffff&bg_color=1e1e2f" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📬 Connect With Me
 
-- 📧 **Email**: [qureshialina64@gmail.com](mailto:alina.yourmail@example.com)  
+- 📧 **Email**: [qureshialina64@gmail.com](mailto:qureshialina64@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/alina-qureshi](https://linkedin.com/in/alina-qureshi)  
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
 ---
 
-🔁 **Feel free to fork this README and customize it!**  
-⭐️ Thanks for visiting — have an awesome day!
+<p align="center" style="color:#bd93f9;">
+  💜 Thank you for visiting — Let’s build something creative together! 💗
+</p>
