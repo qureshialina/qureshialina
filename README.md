@@ -44,9 +44,6 @@
 🧠 **Quiz Generator (C++)**  
 OOP-based microproject that dynamically generates custom quizzes from a database of questions.
 
-🏍️ **ASCII Bike Racing Game**  
-An interactive terminal game coded in C++ with animations, scoring system, and collision detection.
-
 📊 **Credit Risk Prediction Model**  
 Machine Learning project using Streamlit and Pandas to assess loan risk using alternative data points.
 
